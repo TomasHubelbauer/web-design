@@ -5,3 +5,7 @@ This is a random collection of notes on web design. It will contain most everyth
 ## URLs
 
 - Use `/resource/mine` over `/resource/${myId}` for protected resources unless it is valid to see someone else's resource by their ID
+
+## Lists
+
+- In lists with clickable elements, when updating the underlying data set, hold the hovered-over item pinned to prevent misclicks
